@@ -216,3 +216,7 @@ form span{
 .article_mapa iframe {
     align-self: center; 
 }
+
+.imagem-redonda {
+    border-radius: 50%;
+}
